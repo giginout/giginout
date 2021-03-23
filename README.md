@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giginout
-- 👀 I’m interested in ... Decoding designing a VPN and software and hacking bad hackers
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... Decoding designing a AI bot VPN software and hacking bad hackers
+- 🌱 I’m currently learning ... decrypting codes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... stewartrobert301@gmail.com
 
